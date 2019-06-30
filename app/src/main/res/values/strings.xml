@@ -13,4 +13,9 @@
     <string name="menu_tools">Tools</string>
     <string name="menu_share">Share</string>
     <string name="menu_send">Send</string>
+    <string name="login">Login</string>
+    <string name="login_button">Login button</string>
+    <string name="send_button">Send Button</string>
+    <string name="please_log_in">Please Log in</string>
+    <string name="message">Message:</string>
 </resources>
