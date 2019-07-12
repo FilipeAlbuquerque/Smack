@@ -18,4 +18,5 @@
     <string name="send_button">Send Button</string>
     <string name="please_log_in">Please Log in</string>
     <string name="message">Message:</string>
+    <string name="sign_up_here">SIGN UP HERE</string>
 </resources>

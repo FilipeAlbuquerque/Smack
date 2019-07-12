@@ -1,5 +1,6 @@
 package com.filipe.smack
 
+import android.content.Intent
 import android.os.Bundle
 import android.view.View
 import androidx.core.view.GravityCompat
@@ -33,7 +34,8 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun loginButtonNavClicked(view : View){
-
+        val loginIntent = Intent(this, LoginActivity::class.java)
+        startActivity(loginIntent)
     }
 
     fun sendMessageButtonClicked(view: View){
